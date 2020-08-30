@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .my-button, .my-button-2 {
-	font-size: 1em;
+	font-size: .9em;
 	line-height: normal;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
